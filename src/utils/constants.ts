@@ -1,0 +1,10 @@
+export const POINTER = 'pointer';
+export const FULL_WIDTH = 'full';
+export const COLORS = 'Colors';
+export const BRANDS = 'Brands';
+export const MATERIALS = 'Materials';
+export const SIZES = 'Sizes';
+export const ELECTRONICS = 'Electronics';
+export const CLOTHING = 'Clothing';
+export const HOME_APPLIANCE = 'Home Appliances';
+export const SEARCH_PLACEHOLDER = 'Search here';
