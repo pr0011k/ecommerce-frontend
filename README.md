@@ -44,3 +44,17 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+##Details:
+
+The root file is app.tsx in this project, where we are using routes.
+We are using Home.tsx as a sub-root file which is holding all it's child components
+We are using chakra-ui library with react to enhance ui experience.
+The components folder contains separate component for each module on the app.
+Inside utils we have defined types interfaces and apis endpoints for our rendering.
+package.json contains all the installed packages.
+
+The react code has been deployed to AWS S3 services and can be publicly accessible.
+
+
